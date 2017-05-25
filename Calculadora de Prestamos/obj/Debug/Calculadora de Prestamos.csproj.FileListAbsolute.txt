@@ -1,9 +1,9 @@
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\bin\Debug\Calculadora de Prestamos.exe
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\bin\Debug\Calculadora de Prestamos.exe.config
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\bin\Debug\Calculadora de Prestamos.pdb
-D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora_de_Prestamos.Form1.resources
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora_de_Prestamos.Properties.Resources.resources
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora de Prestamos.csproj.GenerateResource.Cache
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora de Prestamos.exe
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora de Prestamos.pdb
 D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora de Prestamos.csprojResolveAssemblyReference.cache
+D:\Documents\ITLA\CUATRIMESTRE VI\Programacion III\Tareas\Tarea 1\Calculadora de Prestamos\Calculadora de Prestamos\obj\Debug\Calculadora_de_Prestamos.MainForm.resources

@@ -1,6 +1,6 @@
 ﻿namespace Calculadora_de_Prestamos
 {
-    partial class Form1
+    partial class MainForm
     {
         /// <summary>
         /// Required designer variable.
@@ -144,16 +144,15 @@
             // 
             this.label4.AutoSize = true;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label4.Location = new System.Drawing.Point(231, 197);
+            this.label4.Location = new System.Drawing.Point(182, 197);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(48, 25);
+            this.label4.Size = new System.Drawing.Size(0, 25);
             this.label4.TabIndex = 7;
-            this.label4.Text = "444";
             // 
             // button1
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.Location = new System.Drawing.Point(275, 322);
+            this.button1.Location = new System.Drawing.Point(275, 291);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(108, 37);
             this.button1.TabIndex = 8;
@@ -172,11 +171,11 @@
             this.Interes,
             this.Amortizacion,
             this.Saldo});
-            this.dataGridView1.Location = new System.Drawing.Point(438, 115);
+            this.dataGridView1.Location = new System.Drawing.Point(433, 106);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.dataGridView1.Size = new System.Drawing.Size(542, 397);
+            this.dataGridView1.Size = new System.Drawing.Size(542, 338);
             this.dataGridView1.TabIndex = 9;
             // 
             // Mes
@@ -213,7 +212,7 @@
             // 
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label3.Location = new System.Drawing.Point(20, 240);
+            this.label3.Location = new System.Drawing.Point(25, 240);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(137, 25);
             this.label3.TabIndex = 10;
@@ -223,11 +222,10 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label5.Location = new System.Drawing.Point(231, 239);
+            this.label5.Location = new System.Drawing.Point(182, 240);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(48, 25);
+            this.label5.Size = new System.Drawing.Size(0, 25);
             this.label5.TabIndex = 11;
-            this.label5.Text = "555";
             // 
             // groupBox1
             // 
@@ -247,7 +245,7 @@
             this.groupBox1.Controls.Add(this.labelMontoPrestamo);
             this.groupBox1.Location = new System.Drawing.Point(29, 106);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(398, 406);
+            this.groupBox1.Size = new System.Drawing.Size(398, 338);
             this.groupBox1.TabIndex = 12;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Calculo";
@@ -298,15 +296,18 @@
             this.labelTitulo.Text = "Calculadora de Prestamos";
             this.labelTitulo.TextAlign = System.Drawing.ContentAlignment.TopCenter;
             // 
-            // Form1
+            // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1004, 537);
+            this.ClientSize = new System.Drawing.Size(1004, 456);
             this.Controls.Add(this.labelTitulo);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.dataGridView1);
-            this.Name = "Form1";
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
+            this.MaximizeBox = false;
+            this.Name = "MainForm";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Calculadora de Prestamos";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
